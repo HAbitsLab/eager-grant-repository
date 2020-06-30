@@ -8,30 +8,29 @@ EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Fram
 - Aggelos Katsaggelos (Co-Principal Investigator)
 - Andrea Graham (Co-Principal Investigator)
 
-## NSF Org:
+### NSF Org:
 [CNS](http://www.nsf.gov/div/index.jsp?div=CNS)
 [Division Of Computer and Network Systems](http://www.nsf.gov/div/index.jsp?div=CNS)
 
-## Award Number: 
+### Award Number: 
 1915847
 
-## Program Manager:
+### Program Manager:
 Sara Kiesler
 CNS Division Of Computer and Network Systems
 CSE Direct For Computer & Info Scie & Enginr
 
-## Start Date:
+### Start Date:
 June 15, 2019
 
-## End Date:
+### End Date:
 May 31, 2021 (Estimated)
 
-## Award Amount:
+### Award Amount:
 $315,471.00
 
-## NSF Program:
+### NSF Program:
 Secure &Trustworthy Cyberspace
-
 
 ## Sponsor:
 Northwestern University at Chicago
